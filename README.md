@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adolfo Mesen</h1>
-<h3 align="center">I am passionate about Frontend (learning Back-end) and Ux/UI Designer living in Buenos Aires.</h3>
+<h3 align="center">I am passionate about Frontend and Ux/UI Designer living in Buenos Aires.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
